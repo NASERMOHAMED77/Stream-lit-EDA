@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 import streamlit_shadcn_ui as ui
 
 st.title("Mahlii Data Visualization")
